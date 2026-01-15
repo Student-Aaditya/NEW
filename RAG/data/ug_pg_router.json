@@ -1,0 +1,120 @@
+[
+    {
+        "course": "MBA - Master of Business Administration",
+        "type": "pg",
+        "branch": "mba",
+        "specialization": " ",
+        "keywords": [
+            "mba",
+            "master of bussiness administration"
+        ],
+        "overview": "The MBA program is designed for ambitious professionals looking to elevate their careers, gain cutting-edge business knowledge, and develop leadership skills that make a real impact in the global business landscape. At NIET, we offer a comprehensive curriculum, industry-driven, innovative, and experiential learning for the holistic development of management graduates. Postgraduates from NIET are highly desirable job candidates because they are self-directed, ethical, and effective contributors in their communities.",
+        "properties": {
+            "duration": "2 Years (4 Semesters)",
+            "seats": "300(varies yearly)",
+            "eligibility": "10+2 PCM + JEE/UPTAC",
+            "fees": "As per institute admission department"
+        },
+        "placements": {
+            "average": "4.09 LPA (approx)",
+            "highest": "10 LPA ",
+            "source_url": "https://niet.co.in/department/master-of-business-administration-mba/placement"
+        },
+        "why_choose": [
+            "Apply knowledge of management theories and practices to solve business problems.",
+            "Foster analytical and critical thinking abilities for data-based decision making.",
+            "Ability to develop value-based leadership ability.",
+            "Ability to understand, analyze and communicate global, economic, legal, and ethical aspects of business."
+        ]
+    },
+    {
+        "course": "Master of Computer Applications",
+        "type": "pg",
+        "branch": "mca",
+        "specialization": "",
+        "keywords": [
+            "mca",
+            "master of computer science",
+            "master of cs"
+        ],
+    "overview": "The Master of Computer Application course was formed in the year 2001, is approved by AICTE, New Delhi, and affiliated to Dr. Abdul Kalam Technical University, Lucknow. and Computer Industry with world-class talent and creates some of the finest software professionals every year.",
+            "properties": {
+            "duration": "2 Years (4 Semesters)",
+            "seats": "420(varies yearly)",
+            "eligibility": "10+2 PCM + JEE/UPTAC",
+            "fees": "As per institute admission department"
+        },
+        "placements": {
+            "average": "4.49 LPA (approx)",
+            "highest": "10 LPA ",
+            "source_url": "https://niet.co.in/department/master-of-computer-application-mca/placement"
+        },
+        "why_choose": [
+            "To develop/apply knowledge of computing fundamentals, computing specialization, mathematics, and domain knowledge for solving real-world problems.",
+            "Identify formulated review research literature and analyze complex problems reaching substantial conclusions using first fundamental principles of mathematics, computing science, and relevant domain specific.",
+            "Ability to design and evaluate systems, components, or processes for complex computing problems that meet specified needs with appropriate consideration for public health and safety and cultural societal, and environmental considerations.",
+            "Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+        ]
+    },
+    {
+        "course": "Bachelor of Computer Applications",
+        "type": "ug",
+        "branch": "bca",
+        "specialization": " ",
+        "keywords": [
+            "bca",
+            "bca course",
+            "bca degree",
+            "bca placement",
+            "bca placements",
+            "bca admission",
+            "bca in niet"
+        ],
+        "overview": "Noida Institute of Engineering & Technology, An Autonomous Institute, coming up with the popular course among students of India - Bachelor of Computer Application 3 years course with high demand all over the IT sector. This program is one of the top choices in BCA colleges in Greater Noida, (Delhi NCR) for students seeking a strong foundation in computer applications. The program is streamlined to meet the challenges in the IT industry.",
+        "properties": {
+            "duration": "3 Years (6 Semesters)",
+            "seats": "120 (varies yearly)",
+            "eligibility": "10+2 PCM + JEE/UPTAC",
+            "fees": "As per institute admission department"
+        },
+        "placements": {
+            "average": "4.68 LPA (approx)",
+            "highest": "10 LPA",
+            "source_url": "https://niet.co.in/department/electronics-and-communication-engineering/placement"
+        },
+        "why_choose": [
+            "To develop/apply knowledge of computing fundamentals, computing specialization, mathematics, and domain knowledge for solving real-world problems.",
+            "Identify formulated review research literature and analyze complex problems reaching substantial conclusions using first fundamental principles of mathematics, computing science, and relevant domain specific.",
+            "Ability to design and evaluate systems, components, or processes for complex computing problems that meet specified needs with appropriate consideration for public health and safety and cultural societal, and environmental considerations.",
+            "Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+        ]
+    },
+    {
+        "course": "BBA - Bachelor of Business Administration",
+        "type": "ug",
+        "branch": "bba",
+        "specialization": " ",
+        "keywords": [
+            "bba  ",
+            "bachelor of business administration"
+        ],
+    "overview": "Noida Institute of Engineering & Technology, an Autonomous Institute, offers a highly sought-after Bachelor of Business Administration (BBA) program. This 3-year course is designed to equip students with essential business and management skills, preparing them for dynamic roles in the corporate world. The program includes globally recognized certifications to enhance career prospects.",
+    "properties": {
+            "duration": "3 Years (6 Semesters)",
+            "seats": "120 (varies yearly)",
+            "eligibility": "10+2 PCM + JEE/UPTAC",
+            "fees": "As per institute admission department"
+        },
+        "placements": {
+            "average": "4.68 LPA (approx)",
+            "highest": "10 LPA",
+            "source_url": "https://niet.co.in/department/electronics-and-communication-engineering/placement"
+        },
+        "why_choose": [
+            "Apply knowledge of management theories and practices to solve business problems.",
+            "Foster analytical and critical thinking abilities for data-based decision making.",
+            "Ability to develop value-based leadership ability.",
+            "Ability to understand, analyze and communicate global, economic, legal, and ethical aspects of business."
+        ]
+    }
+]
